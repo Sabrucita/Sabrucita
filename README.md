@@ -6,7 +6,7 @@ I recently discovered the world of web development, for now I'm learning and I h
 
 <img src="https://img.shields.io/badge/-Javascript-yellow"/> <img src="https://img.shields.io/badge/-HTML-orange"/> <img src="https://img.shields.io/badge/-CSS-blue"/>
 
-### I'm currently learning
+### Learning
 
 <img src="https://img.shields.io/badge/-Redux-purple"/> <img src="https://img.shields.io/badge/-React-blue"/>
 
