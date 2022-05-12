@@ -13,5 +13,4 @@ I recently discovered the world of web development, for now I'm learning and I h
 ### A little about me
 
 - ❤ I love food, pasta and cheese my favourite things.
-- 🎞 I enjoy watching Youtube videos and series/movies.
 
